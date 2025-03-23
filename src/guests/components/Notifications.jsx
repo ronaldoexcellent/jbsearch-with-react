@@ -1,1 +1,0 @@
-const Notifications = () => { return <h1>No Notifications!</h1> }
