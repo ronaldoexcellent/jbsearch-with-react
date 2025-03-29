@@ -1,6 +1,0 @@
-.bar {
-    z-index: 4000;
-    background-color: red;
-}
-
-/* <div id="nprogress" style="transition: 200ms linear; opacity: 0;"><div class="bar" role="bar" style="transform: translate3d(0%, 0px, 0px); transition: 200ms;"><div class="peg"></div></div><div class="spinner" role="spinner"><div class="spinner-icon"></div></div></div> */
