@@ -1,0 +1,23 @@
+#nprogress .bar {
+    background: linear-gradient(to right, rgb(31 41 55), rgb(20, 28, 39)); /* Custom gradient */
+    height: 8px; /* Adjust thickness */
+  }
+  
+  /* Style for the spinner */
+  #nprogress .spinner {
+    display: block; /* Show or hide spinner */
+    position: fixed;
+    z-index: 1000;
+    top: 15px;
+    right: 15px;
+  }
+  
+  #nprogress .spinner-icon {
+    border-color: rgb(31 41 55); /* Spinner color */
+    border-top-color: rgb(31 41 55); /* Highlight color */
+  }
+  
+  /* Container styling */
+  #nprogress {
+    z-index: 1000; /* Ensure it appears above other elements */
+  }
